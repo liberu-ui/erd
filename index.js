@@ -1,3 +1,3 @@
-import Divider from './src/Divider.vue';
+import Erd from './src/Erd.vue';
 
-export default Divider;
+export default Erd;
