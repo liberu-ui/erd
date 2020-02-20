@@ -1,6 +1,6 @@
 {
   "name": "@enso-ui/erd",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Element Resize Detector",
   "main": "index.js",
   "scripts": {
