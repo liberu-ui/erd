@@ -1,7 +1,7 @@
 # Erd
 
-[![License](https://poser.pugx.org/laravel-enso/erd/license)](https://packagist.org/packages/laravel-enso/erd)
-[![Latest Stable Version](https://poser.pugx.org/laravel-enso/erd/version)](https://packagist.org/packages/laravel-enso/erd)
+[![License](https://poser.pugx.org/enso-ui/erd/license)](https://packagist.org/packages/enso-ui/erd)
+[![Latest Stable Version](https://poser.pugx.org/enso-ui/erd/version)](https://packagist.org/packages/enso-ui/erd)
 
 Element Resize Detector
 
