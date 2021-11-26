@@ -25,7 +25,7 @@ export default {
         }), this.debounce);
     },
 
-    beforeDestroy() {
+    beforeUnmount() {
         this.erd = null;
     },
 
