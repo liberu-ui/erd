@@ -19,7 +19,7 @@ export default {
     }),
 
     mounted() {
-        this.erd = new ResizeSensor(this.$el, debounce((el) => {
+        this.erd = new ResizeSensor(this.$el, debounce(el => {
             this.width = el.width;
             this.height = el.height;
         }), this.debounce);
