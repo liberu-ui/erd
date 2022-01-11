@@ -19,18 +19,18 @@ export default {
     }),
 
     mounted() {
-        this.erd = new ResizeSensor(this.$el, debounce((el) => {
+        this.erd = new ResizeSensor(this.$el, debounce(el => {
             this.width = el.width;
             this.height = el.height;
         }), this.debounce);
     },
 
-    beforeDestroy() {
+    beforeUnmount() {
         this.erd = null;
     },
 
     render() {
-        return this.$scopedSlots.default({
+        return this.$slots.default({
             width: this.width,
             height: this.height,
         });
