@@ -1,5 +1,5 @@
 {
-  "name": "@enso-ui/erd",
+  "name": "@cgdsoftware/erd",
   "version": "2.0.7",
   "description": "Element Resize Detector",
   "main": "index.js",
