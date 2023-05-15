@@ -1,5 +1,5 @@
 {
-  "name": "@cgdsoftware/erd",
+  "name": "@liberu-ui/erd",
   "version": "2.0.7",
   "description": "Element Resize Detector",
   "main": "index.js",
