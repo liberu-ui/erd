@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enso-ui/erd.git"
+    "url": "git+https://github.com/liberu-ui/erd.git"
   },
   "keywords": [
     "erd",
@@ -17,9 +17,9 @@
   "author": "Adrian Ocneanu <aocneanu@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/enso-ui/erd/issues"
+    "url": "https://github.com/liberu-ui/erd/issues"
   },
-  "homepage": "https://github.com/enso-ui/erd#readme",
+  "homepage": "https://github.com/liberu-ui/erd#readme",
   "dependencies": {
     "css-element-queries": "^1.1.1",
     "lodash": "^4.17.11",

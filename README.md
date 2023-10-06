@@ -1,7 +1,7 @@
 # Erd
 
-[![License](https://poser.pugx.org/enso-ui/erd/license)](https://packagist.org/packages/enso-ui/erd)
-[![Latest Stable Version](https://poser.pugx.org/enso-ui/erd/version)](https://packagist.org/packages/enso-ui/erd)
+[![License](https://poser.pugx.org/liberu-ui/erd/license)](https://packagist.org/packages/liberu-ui/erd)
+[![Latest Stable Version](https://poser.pugx.org/liberu-ui/erd/version)](https://packagist.org/packages/liberu-ui/erd)
 
 Element Resize Detector
 
