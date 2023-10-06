@@ -1,6 +1,6 @@
 {
   "name": "@liberu-ui/erd",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "description": "Element Resize Detector",
   "main": "index.js",
   "scripts": {
